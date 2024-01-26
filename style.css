@@ -1,0 +1,35 @@
+.h2{
+    margin-left:40%;
+    font-family: cursive;
+}
+#image{
+    height:500px;
+    width:500px;
+    margin-left:1%;
+    display: inline-block;
+}
+#name{
+    margin-left:13%;
+    font-size: 40px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+button:hover{
+    background-color: #DAF7A6 ;
+}
+button{
+    margin-left:15%;
+}
+.text{
+    float:right;
+    margin-left:100px;
+    margin-right:50px;
+    font-size: x-large;
+    font-family: monospace;
+    color: rgb(237, 111, 111);
+    
+}
+.container{
+    display: flex;
+    align-items: center;
+}
+
